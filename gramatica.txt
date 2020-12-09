@@ -1,0 +1,4 @@
+S => XB | AB
+X => AS
+A => a
+B => b
